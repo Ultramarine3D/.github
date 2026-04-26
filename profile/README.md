@@ -1,12 +1,24 @@
-## Hi there 👋
+# Ultramarine3D
+Open 3D Printing.
 
-<!--
+## A project to create an open-source CoreXY 3D printer.
 
-**Here are some ideas to get you started:**
+Ultramarine3D is a community-driven FFF 3D printer project with transparent hardware, approachable firmware, and honest documentation.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## [um3d.xyz](https://www.um3d.xyz)
+
+## [Ultramarine printer project](https://github.com/Ultramarine3D/Ultramarine)
+
+
+## Documentation
+
+Download the project documents below.
+
+[Coming soon...](https://github.com/Ultramarine3D/Ultramarine)
+[Coming soon...](https://github.com/Ultramarine3D/Ultramarine)
+
+Developed by Michal Meciar.
+
+---
+
+© 2026 Ultramarine3D
